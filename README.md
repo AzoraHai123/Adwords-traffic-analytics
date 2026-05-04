@@ -17,13 +17,7 @@ Analyzed SEO/AdWords keyword traffic data for certification-related keywords.
 ## Dashboard Preview
 <img width="1916" height="973" alt="Screenshot 2026-05-04 184607" src="https://github.com/user-attachments/assets/90dd84f1-3fed-487c-ad4c-449755b46da9" />
 
-🔁 End-to-End Workflow
 
-graph LR
-    A[Raw Excel] --> B[Excel Formulas]
-    B --> C[Python Script]
-    C --> D[MySQL Database]
-    D --> E[Power BI Dashboard]
 
 
 
