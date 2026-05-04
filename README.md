@@ -6,7 +6,7 @@ Analyzed SEO/AdWords keyword traffic data for certification-related keywords.
 📊 Tools Used
 - Python (pandas) — data cleaning & keyword ID assignment
 - Excel — SUMIF, AVERAGEIF formulas
-- - Power BI — interactive dashboard
+- Power BI — interactive dashboard
 
 🧹 Steps
 1. Raw data collection
