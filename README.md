@@ -3,6 +3,14 @@ A complete, real-world AdWords Data Analysis pipeline from raw Excel to fully in
 🎯 Project Overview
 Analyzed SEO/AdWords keyword traffic data for certification-related keywords.
 
+📌 Business Objective
+To help marketing teams and decision-makers:
+
+Monitor campaign performance
+Identify high-performing and low-performing keywords
+Track search demand and cost trends over time
+Visualize performance KPIs via intuitive dashboards
+
 📊 Tools Used
 - Python (pandas) — data cleaning & keyword ID assignment
 - Excel — SUMIF, AVERAGEIF formulas
