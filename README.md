@@ -19,6 +19,10 @@ Analyzed SEO/AdWords keyword traffic data for certification-related keywords.
 ## Dashboard Preview
 <img width="1916" height="973" alt="Screenshot 2026-05-04 184607" src="https://github.com/user-attachments/assets/ee157fe6-3d69-4c79-83d8-3b97a4f4f5d2" />
 
+## ER Diagram
+<img width="1918" height="948" alt="Screenshot 2026-05-05 135140" src="https://github.com/user-attachments/assets/3650db81-5dc7-44ff-a6d7-cd74e731006a" />
+
+
 
 
 
